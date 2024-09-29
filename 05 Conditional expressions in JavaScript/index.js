@@ -11,7 +11,7 @@ if (a <= 0) {
 }
 console.log("Done");
 
-// Switch Case *****
+// Switch Case
 let age = prompt("What is your age?");
 age = Number.parseInt(age);
 switch (age) {
@@ -33,5 +33,5 @@ switch (age) {
     break;
 }
 
-// Ternary Operators *****
+// Ternary Operators
 console.log("You can", age<18? "not drive" : "drive");
