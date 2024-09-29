@@ -1,5 +1,3 @@
-// Map, Filter & Reduce in JavaScript
-
 // map
 let arr = [45, 23, 21];
 let a = arr.map((value, index, array) => {
