@@ -1,4 +1,4 @@
-//  String Methods in JS *****
+// String Methods
 
 let name = "Priyanshu";
 // console.log(name.length);
