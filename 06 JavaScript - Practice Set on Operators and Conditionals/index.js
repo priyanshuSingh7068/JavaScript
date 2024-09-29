@@ -1,7 +1,6 @@
-// Practice Set *****
+// Practice Set
 
 // Q1- Use logical operators to find weather the age of a person lies between 10 and 20.
-
 // let age = prompt("What is your age?");
 // age = Number.parseInt(age);
 // if (age > 10 && age < 20) {
@@ -11,7 +10,6 @@
 // }
 
 // Q2- Demonstrate the use of switch case statement in JavaScript.
-
 // let age = prompt("What is your age?");
 // age = Number.parseInt(age);
 // switch (age) {
@@ -34,7 +32,6 @@
 // }
 
 // Q3- Write a JavaScript program to find whether a number is Divisible by 2 and 3.
-
 // let num = prompt("Enter the number");
 // age = Number.parseInt(num);
 // if (num % 2 == 0 && num % 3 == 0) {
@@ -44,7 +41,6 @@
 // }
 
 // Q4- Write a JavaScript program to find whether a number is Divisible by 2 or 3.
-
 // let num = prompt("Enter the number");
 // age = Number.parseInt(num);
 // if (num % 2 == 0 || num % 3 == 0) {
@@ -54,7 +50,6 @@
 // }
 
 // Q5- Print "You can drive." or "You cannot drive." based on age being greater than 18 using ternary operator.
-
 let age = prompt("What is your age?");
 age = Number.parseInt(age);
 console.log(age >= 18 ? "You can drive" : "You cannot drive");
