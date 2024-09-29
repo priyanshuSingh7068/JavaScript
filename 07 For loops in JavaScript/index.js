@@ -1,7 +1,4 @@
-// For loops in JavaScript *****
-
-// For loop *****
-
+// For loop
 // let sum = 0;
 // let n = prompt("Enter the value of n");
 // n = Number.parseInt(n);
@@ -11,8 +8,7 @@
 // }
 // console.log("Sum of first " + n + " natural number is " + sum);
 
-// For in loop *****
-
+// For in loop
 // let obj = {
 //   priyanshu: 90,
 //   shubh: 45,
@@ -25,8 +21,7 @@
 //   console.log(`Marks of ${a} are ${obj[a]}`);
 // }
 
-// For of loop *****
-
+// For of loop
 for (let a of "priyanshu") {
   console.log(a);
 }
