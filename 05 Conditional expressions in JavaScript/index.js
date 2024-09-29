@@ -1,5 +1,3 @@
-// Conditional expressions in JavaScript *****
-
 let a = prompt("Hey whats your age?");
 a = Number.parseInt(a); // Converting the string to a number
 if (a <= 0) {
@@ -14,7 +12,6 @@ if (a <= 0) {
 console.log("Done");
 
 // Switch Case *****
-
 let age = prompt("What is your age?");
 age = Number.parseInt(age);
 switch (age) {
@@ -37,5 +34,4 @@ switch (age) {
 }
 
 // Ternary Operators *****
-
 console.log("You can", age<18? "not drive" : "drive");
