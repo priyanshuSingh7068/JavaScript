@@ -1,5 +1,3 @@
-// Primitives and Objects in Js
-
 // Primitives in Js *****
 let a = null;
 let b = 345;
@@ -20,7 +18,6 @@ console.log(
 );
 
 // Objects in Js *****
-
 const item = {
   name: "Priyanshu singh",
   course: "JS",
