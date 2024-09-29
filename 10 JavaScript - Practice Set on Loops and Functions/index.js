@@ -1,7 +1,6 @@
-// Practice set *****
+// Practice set
 
 // Q1- Write a program to print the marks of a student in an object using for loop.
-
 // let marks = {
 //   priyanshu: 90,
 //   shubham: 9,
@@ -14,7 +13,6 @@
 // }
 
 // Q2- Write a program in Q1 using for in loop.
-
 // let marks = {
 //   priyanshu: 90,
 //   shubham: 9,
@@ -27,7 +25,6 @@
 // }
 
 // Q3- write a program to print "try again" until the user enter the correct Number.
-
 // let cn = 4;
 // let i;
 // i = prompt("Enter a number");
@@ -37,7 +34,6 @@
 // console.log("You have entered a correct number");
 
 // Q4- Write a function to find mean of 5 Number.
-
 const mean = (a, b, c, d) => {
   return (a + b + c + d) / 4;
 };
