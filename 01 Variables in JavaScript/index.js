@@ -1,5 +1,3 @@
-// Variables *****
-
 // var a = 45;
 // var a = "p";
 let b = "Priyanshu";
