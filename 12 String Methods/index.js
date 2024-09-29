@@ -1,5 +1,3 @@
-// String Methods
-
 let name = "Priyanshu";
 // console.log(name.length);
 // console.log(name.toUpperCase());
