@@ -7,8 +7,7 @@ let arr1 = [11, 12, 13, 14, 15, 16, 17, 18, 19];
 // let newarr = arr.concat(arr1);
 // console.log(newarr);
 
-// sort method *****
-
+// sort method
 // let compare = (a, b) => {
 //   return a - b;
 // };
@@ -17,8 +16,7 @@ let arr1 = [11, 12, 13, 14, 15, 16, 17, 18, 19];
 // array.reverse();
 // console.log(array);
 
-// splice and slice *****
-
+// splice and slice
 let array = [34, 56, 12, 3, 1, 66, 34, 2, 99];
 // array.splice(2, 3, 1021, 1022, 1023);
 // console.log(array);
