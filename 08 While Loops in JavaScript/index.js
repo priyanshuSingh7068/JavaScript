@@ -1,7 +1,4 @@
-// While Loops in JavaScript *****
-
-// While loop *****
-
+// While loop
 // let n = prompt("Enter the value of n");
 // n = Number.parseInt(n);
 // let i = 0;
@@ -10,8 +7,7 @@
 //   i++;
 // }
 
-// Do while loop *****
-
+// Do while loop
 let n = prompt("Enter the value of n");
 n = Number.parseInt(n);
 let i = 0;
