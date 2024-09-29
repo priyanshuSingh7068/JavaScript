@@ -1,4 +1,4 @@
-// Primitives in Js *****
+// Primitives
 let a = null;
 let b = 345;
 let c = true; // can also be false
@@ -17,7 +17,7 @@ console.log(
   typeof g
 );
 
-// Objects in Js *****
+// Objects
 const item = {
   name: "Priyanshu singh",
   course: "JS",
